@@ -12,7 +12,7 @@ function App() {
     <TextForm heading="Enter the text to analyze."/>
     </div>
     
-    </>
+    </>  
   );
 }
 
